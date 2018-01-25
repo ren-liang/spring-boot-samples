@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e288b61a-b19e-42d6-89b5-d9aede9e5797" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/pom.xml" afterPath="$PROJECT_DIR$/spring-boot-01/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/spring-boot-01.iml" afterPath="$PROJECT_DIR$/spring-boot-01/spring-boot-01.iml" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/java/com/dcits/Application.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/java/com/dcits/config/DruidConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/java/com/dcits/config/SessionFactoryConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/java/com/dcits/domain/model/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/java/com/dcits/web/UserController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/spring-boot-01/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-01/src/main/resources/mapping/UserMapper.xml" afterPath="$PROJECT_DIR$/spring-boot-01/src/main/resources/mapping/UserMapper.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -164,6 +152,24 @@
             <path>
               <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot-samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,12 +329,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516874926420</updated>
-      <workItem from="1516874930897" duration="5242000" />
+      <workItem from="1516874930897" duration="5414000" />
     </task>
+    <task id="LOCAL-00001" summary="#修改数据源连接">
+      <created>1516880340237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516880340237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5242000" />
+    <option name="totallyTimeSpent" value="5414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -342,7 +356,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997669" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997669" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -353,7 +367,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -404,6 +418,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#修改数据源连接" />
+    <option name="LAST_COMMIT_MESSAGE" value="#修改数据源连接" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
